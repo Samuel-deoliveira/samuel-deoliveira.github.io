@@ -1,0 +1,5 @@
+# Conclusion
+
+:::warning IMPORTANT
+Il est important de noter que **<span style="color: #c28727">l'utilisation de modificateur d'accès</span>** permet de **<span style="color: #c28727">contrôler l'accès aux variables</span>** et **<span style="color: #c28727">aux méthodes</span>**, ce qui contribue à la **<span style="color: #c28727">modularité</span>** et à **<span style="color: #c28727">l'encapsulation du code</span>**. Dans la pratique, il est **<span style="color: #c28727">recommandé</span>** de **<span style="color: #c28727">limité l'accès aux variables</span>** et **<span style="color: #c28727">aux méthodes autant que possible</span>**, en utilisant généralement des `private` pour les variables d'instance et en fournissant des méthodes `public` pour accéder ou modifier ces variables si nécessaire **<span style="color: #c22727">(C'est à dire les getters et les setters)</span>**.
+:::
