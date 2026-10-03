@@ -6,7 +6,7 @@ Exemple:
 
 ```java
 public int additionner(int a, int b) {
-  int somme = a +b;
+  int somme = a + b;
   return somme;
 }
 ```
